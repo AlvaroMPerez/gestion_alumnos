@@ -1,0 +1,4 @@
+spring:
+  datasource:
+    username: negrito
+    password: negrito
